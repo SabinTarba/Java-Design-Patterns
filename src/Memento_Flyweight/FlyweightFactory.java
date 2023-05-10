@@ -1,4 +1,5 @@
-package Memento;
+package Memento_Flyweight;
+
 
 import java.util.HashMap;
 import java.util.Map;

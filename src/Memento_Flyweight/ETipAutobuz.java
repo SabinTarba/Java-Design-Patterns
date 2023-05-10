@@ -1,4 +1,5 @@
-package Memento;
+package Memento_Flyweight;
+
 
 public enum ETipAutobuz {
 

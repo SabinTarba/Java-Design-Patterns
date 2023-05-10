@@ -1,4 +1,4 @@
-package Memento;
+package Memento_Flyweight;
 
 public class Main {
 
